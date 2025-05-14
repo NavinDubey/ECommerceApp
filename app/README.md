@@ -40,4 +40,4 @@ To run this app, ensure you have the following:
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/yourusername/product-cart-app.git
+git clone https://github.com/NavinDubey/ECommerceApp.git
